@@ -1,0 +1,32 @@
+{
+    "songs": [{
+      "artist": "Nirvana",
+      "album": "Bleach",
+      "genre": "Grunge",
+      "length": 217,
+      "name": "About A Girl",
+      "liked": true
+    }],
+    "name": "Library",
+    "playlists": [
+        {
+            "creator": "Martin",
+            "songs": [],
+            "name": "Favorite Songs"
+        },
+        {
+            "creator": "Martin",
+            "songs": [
+                {
+                    "artist": "Nirvana",
+                    "album": "Bleach",
+                    "genre": "Grunge",
+                    "length": 217,
+                    "name": "About A Girl",
+                    "liked": true
+                }
+            ],
+            "name": "Study Songs"
+        }
+    ]
+}

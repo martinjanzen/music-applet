@@ -1,0 +1,41 @@
+{
+    "songs": [
+        {
+            "artist": "Alex G",
+            "album": "Race",
+            "name": "Gnaw",
+            "length": 201,
+            "genre": "Indie",
+            "liked": false
+        },
+        {
+            "artist": "Nirvana",
+            "album": "Bleach",
+            "name": "About A Girl",
+            "length": 217,
+            "genre": "Grunge",
+            "liked": false
+        },
+        {
+            "artist": "Pinegrove",
+            "album": "Everything So Far",
+            "name": "Angelina",
+            "length": 101,
+            "genre": "Indie",
+            "liked": false
+        }
+    ],
+    "name": "Library",
+    "playlists": [
+        {
+            "creator": "Martin",
+            "songs": [],
+            "name": "Favorite Songs"
+        },
+        {
+            "creator": "Martin",
+            "songs": [],
+            "name": "Study Songs"
+        }
+    ]
+}
